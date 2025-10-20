@@ -78,9 +78,11 @@ st.markdown("---")
 
 
 # Query input
-question = st.text_input("Ask a question:", placeholder="What happened during the Tic Tac incident?")
+with st.form("query_form"):
+    question = st.text_input("Ask a question:", placeholder="What happened during the Tic Tac incident?")
+    submitted = st.form_submit_button("Search")
 
-if st.button("Search") and question:
+if submitted and question:
     with st.spinner("Searching knowledge base..."):
         result = rag_query(question)
     
