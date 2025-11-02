@@ -64,13 +64,6 @@ Built in 4 weeks:
 
 ## Blog Series
 
-- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01
-- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-2-embeddings-and-vector-search-1fd73197b1c6
-- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-3-streamlit-interface-9793aab3113f
-- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-4-deployment-real-users-54cb760184ab
-
-## Blog Series
-
 Follow the complete development journey:
 
 - [Week 0: Commitment](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01)
