@@ -69,6 +69,17 @@ Built in 4 weeks:
 - https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-3-streamlit-interface-9793aab3113f
 - https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-4-deployment-real-users-54cb760184ab
 
+## Blog Series
+
+Follow the complete development journey:
+
+- [Week 0: Commitment](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01)
+- [Week 1: Data Collection](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-1-data-collection-e173fed36234)
+- [Week 2: Embeddings & Vector Search](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-2-embeddings-and-vector-search-1fd73197b1c6)
+- [Week 3: RAG Pipeline & UI](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-3-streamlit-interface-9793aab3113f)
+- [Week 4: Deployment & User Feedback](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-4-deployment-real-users-54cb760184ab)
+- [Week 5: Final Polish & Learnings]() *(coming soon)*
+
 ## Next Steps (V2)
 
 - Expand corpus (Black Vault, CUFOS)
