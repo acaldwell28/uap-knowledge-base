@@ -159,7 +159,7 @@ with col2:
 with st.sidebar:
     st.markdown("### About This Project")
     st.markdown("Built in 5 weeks as a learning project exploring RAG systems and LLM engineering.")
-    st.markdown("📄 [Full Document List](https://github.com/acaldwell28/uap-knowledge-base/blob/main/DOCUMENTS.md)")
+    st.markdown("📄 [Full Document List](https://github.com/acaldwell28/uap-knowledge-base/blob/master/DOCUMENTS.md)")
     st.markdown("💻 [View Source Code](https://github.com/acaldwell28/uap-knowledge-base)")
     st.markdown("📝 [Read Blog Series](https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01)")
 
@@ -190,6 +190,6 @@ st.markdown("""
     <p>UAP High-Credibility Knowledge Base | Built with OpenAI, Pinecone & Streamlit</p>
     <p><a href='https://github.com/acaldwell28/uap-knowledge-base' target='_blank'>GitHub</a> 
     • <a href='https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01' target='_blank'>Blog</a>
-    • <a href='https://github.com/acaldwell28/uap-knowledge-base/blob/main/DOCUMENTS.md' target='_blank'>Documents</a></p>
+    • <a href='https://github.com/acaldwell28/uap-knowledge-base/blob/master/DOCUMENTS.md' target='_blank'>Documents</a></p>
 </div>
 """, unsafe_allow_html=True)

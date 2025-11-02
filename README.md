@@ -31,7 +31,7 @@ Ask questions about UAPs in natural language and get answers with citations from
 
 ## Results
 
-- 26+ unique users in first week
+- 40+ unique users in first week
 - Handles complex queries about government positions, congressional testimony, and researcher theories
 - Cost: ~$0.003 per query
 
@@ -64,7 +64,10 @@ Built in 4 weeks:
 
 ## Blog Series
 
-[Link to your Medium posts - all 5 of them]
+- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-0-ef40983b4a01
+- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-2-embeddings-and-vector-search-1fd73197b1c6
+- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-3-streamlit-interface-9793aab3113f
+- https://medium.com/@acaldwell45/building-a-uap-knowledge-base-week-4-deployment-real-users-54cb760184ab
 
 ## Next Steps (V2)
 
@@ -75,4 +78,4 @@ Built in 4 weeks:
 
 ## License
 
-[Choose one - MIT is common for portfolio projects]
+MIT License - see [LICENSE](LICENSE) file for details.
